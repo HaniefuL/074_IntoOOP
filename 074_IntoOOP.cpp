@@ -17,5 +17,6 @@ class Mahsiswa {
 
 
 class Matakuliah  {
-    
+    private:
+        
 }

@@ -17,6 +17,10 @@ class bangunDatar {
         }
 
         float hitungLuas() {
+            return panjang * lebar;
+        }
+
+        void.display(); {
             
         }
 };

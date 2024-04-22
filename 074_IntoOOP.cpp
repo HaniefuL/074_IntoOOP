@@ -1,4 +1,6 @@
 #include <iostream>
 using namespace std;
 
-class Mahsiswa
+class Mahsiswa {
+    public: // akses modifier
+}
